@@ -13,7 +13,7 @@ public class Matematika {
         return bil1 + bil2;
     }
     
-    double setPenguranga(){
+    double setPengurangan(){
         return bil1 - bil2;
     }
     

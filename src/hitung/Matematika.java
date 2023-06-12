@@ -12,4 +12,16 @@ public class Matematika {
     double setPenjumlahan(){
         return bil1 + bil2;
     }
+    
+    double setPenguranga(){
+        return bil1 - bil2;
+    }
+    
+    double setPerkalian(){
+        return bil1 * bil2;
+    }
+    
+    double setPembagian(){
+        return bil1 / bil2;
+    }
 }
